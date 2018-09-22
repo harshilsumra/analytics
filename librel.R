@@ -1,0 +1,11 @@
+#day1
+library()
+install.packages("amap")
+library(amap)
+library(help=amap)
+install.packages("dplyr")
+library(dplyr)
+install.packages("googlesheets")
+library(googlesheets)
+install.packages("zoo")
+install.packages("car")
